@@ -1,4 +1,4 @@
 HEAPSORT
 ==============
 
-Algoritmos heapsort em linguagem MIPS.
+Algoritmo heapsort em linguagem MIPS.
